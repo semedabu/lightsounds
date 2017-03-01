@@ -1,0 +1,16 @@
+body {
+
+
+	background: Wheat; 
+	font-family: Arial;
+}
+a{
+
+	color: #222;
+	padding: 20px;
+}
+b{
+	color: #888;
+	background: #555;
+	padding: 3px 0px;
+}
